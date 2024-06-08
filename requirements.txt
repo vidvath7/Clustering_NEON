@@ -1,0 +1,5 @@
+scikit-learn
+spacy
+gensim
+nltk
+stopwords
